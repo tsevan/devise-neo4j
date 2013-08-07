@@ -7,7 +7,7 @@ gem "omniauth"
 gem "omniauth-oauth2"
 gem "rdoc"
 gem 'neo4j'
-gem "devise", ">= 2.2.0"
+gem "devise", ">= 3.0"
 group :test do
   gem "omniauth-facebook"
   gem "omniauth-openid", "~> 1.0.1"
